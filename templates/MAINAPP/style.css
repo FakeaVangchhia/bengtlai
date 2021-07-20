@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.heading {
+    background-color: #0c91f0;
+    font-size: 60px;
+    text-align: center;
+    color: #71736e;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    font-family: Copperplate;
+}
+.topic {
+    margin-top: 20px;
+    text-align: center;
+    float: center;
+}
+.topic a {
+    margin-left: 40px;
+}
+.topic a:hover {
+    opacity: 0.9;
+}
+#gospel {
+    color: white;
+    text-decoration: none;
+    background-color: #961b4c;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Goudy Old Style;
+}
+#lengzem {
+    color: white;
+    background-color: #591fa1;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Goudy Old Style;
+    text-decoration: none;
+}
+#fiamthu {
+    color: white;
+    background-color: #12b35a;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Goudy Old Style;
+    text-decoration: none;
+}
+#ihlate {
+    color: white;
+    background-color: #2432ad;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Goudy Old Style;
+    text-decoration: none;
+}
+body {
+    min-height: 100vh;
+}
+.social-media {
+    background-color: #949392;
+    text-align: center;
+    position: sticky;
+    top: 100%;
+}
+.social-media-heading {
+    font-size: 30px;
+    color: #03556e;
+}
+.accounts li{
+    list-style-type: none;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    padding: 5vh;
+    color: white;
+}
+.instagram {
+    color: black;
+    text-decoration: none;
+    background-color: #8a3ab9;
+    border-radius: 50px;
+    padding: 10px;
+}
+.instagram:hover {
+    opacity: .8;
+}
+.facebook {
+    color: black;
+    text-decoration: none;
+    background-color: #1425c4;
+    border-radius: 50px;
+    padding: 10px;
+}
+.facebook:hover {
+    opacity: .8;
+}
+.twitter {
+    color: black;
+    text-decoration: none;
+    background-color: #0583f2;
+    border-radius: 50px;
+    padding: 10px;
+}
+.twitter:hover {
+    opacity: .8;
+}
+.youtube {
+    color: black;
+    text-decoration: none;
+    background-color: #de3740;
+    border-radius: 50px;
+    padding: 10px;
+}
+.youtube:hover {
+    opacity: .8;
+}
+.contact {
+    text-align: right;
+}
+
+
+
+
+
+

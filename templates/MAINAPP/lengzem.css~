@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.lengzem-heading {
+    background-color: #591fa1;
+    border: 2px solid #fafcfb;
+    border-radius: 10px;
+}
+.lengzem {
+    text-align: center;
+    font-size: 60px;
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+    font-family: Constantia;
+}
+.home {
+    font-size: 30px;
+    margin: 5px;
+}
+}
+.home:hover {
+    opacity: .9;
+}
+img {
+    width: 60px;
+}
+.biakmuana1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.biakmuana2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.IsraelLalbiakrema1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.IsraelLalbiakrema2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.KHminga1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.KHminga2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.Kimkima1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.Kimkima2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.Lalnunsanga {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.Lilzo1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.Lilzo2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.TriauTrackx {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.VanHleihSung {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.ZauteaFeatZonunBand {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.MazualiK {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.FelaColney {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.JMalsawma {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.BenjaminSum {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.BenjaminSum2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+
+
+
+
+
