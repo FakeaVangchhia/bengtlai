@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.fiamthu-heading {
+    background-color: #09803e;
+    border: 2px solid #fafcfb;
+    border-radius: 10px;
+}
+.fiamthu {
+    text-align: center;
+    font-size: 60px;
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+    font-family: Constantia;
+}
+.home {
+    font-size: 30px;
+    margin: 5px;
+}
+.home:hover {
+    opacity: .9;
+}
+img {
+    width: 60px;
+}
+.James1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Albert-ft-Maste-Duhdah {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Costea-feat-Mastea {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.James2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Khawtea {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Lalchhanhima1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Lalchhanhima2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Laltanpuia1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.mapuia-leh-lray {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Mapuia1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.Mapuia2 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+.PuThangthuama1 {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+
+
+
+
